@@ -26,3 +26,6 @@ This project is a simple and elegant **Accordion UI component** built using **HT
    `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS.git`
     
  2. Navigate to the folder: Accordion page/
+ 3. Ensure both files are present in the folder:
+    - index.html
+    - Accordionpage.css

@@ -21,3 +21,8 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - Each question expands independently using radio buttons Beginner-friendly structure and code
 
 ## 🚀 How to Run
+  
+  - Download or clone the repository: 
+    git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS 
+    
+  - Navigate to the folder: Accordion page/

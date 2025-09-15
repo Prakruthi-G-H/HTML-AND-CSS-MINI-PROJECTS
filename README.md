@@ -24,17 +24,17 @@ Each project is placed in its own folder for better organization and learning.
 
 | Project Name         | Live Demo Link                                                   |
 |----------------------|-----------------------------------------------------------------|
-| Tribute Page         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/TributePage/)         |
-| Accordion            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Accordion%20page/)    |
-| Buttons              | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Buttons/)              |
-| Card                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Card/)                 |
-| Dropdown             | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Dropdown/)             |
-| Form                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Form/)                 |
-| Login Form           | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Login%20Form/)         |
-| Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Menu/)                 |
-| Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Rotating%20Text/)      |
-| ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/ScrollBar/)            |
-| Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Survey%20Form/)        |
+| Tribute Page         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/TributePage/)         |
+| Accordion            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Accordion%20page/)    |
+| Buttons              | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Buttons/)              |
+| Card                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Card/)                 |
+| Dropdown             | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Dropdown/)             |
+| Form                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Form/)                 |
+| Login Form           | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login%20Form/)         |
+| Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
+| Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
+| ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/ScrollBar/)            |
+| Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 
 ## 🚀 How to Run Any Project
 

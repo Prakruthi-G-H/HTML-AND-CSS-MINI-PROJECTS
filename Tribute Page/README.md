@@ -6,6 +6,7 @@
 3. Ensure both files are present in the folder:
     - index.html
     - TributePage.css
+4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
 ## 👩‍💻 Developed by
 

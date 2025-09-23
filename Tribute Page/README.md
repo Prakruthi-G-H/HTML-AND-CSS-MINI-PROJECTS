@@ -6,7 +6,11 @@ This project is a **tribute webpage** dedicated to **A P J Abdul Kalam**, the Mi
 
 Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Tribute%20Page)
 
+## 🔧 Technologies Used
 
+- **HTML5** – For structuring the webpage content
+- **CSS3** – For styling the layout
+  
 ## 🚀 How to Run
   
 1. Download or clone the repository:  

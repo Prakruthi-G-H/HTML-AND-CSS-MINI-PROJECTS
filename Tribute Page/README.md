@@ -16,6 +16,14 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - `index.html` → Main HTML file  
 - `TributePage.css` → Stylesheet for the page  
 - `README.md` → Project documentation
+
+## 📌 Features
+
+- Clean and responsive layout  
+- Grid-based design for text and image alignment  
+- Dedicated sections for quotes and biography  
+- Easy-to-read typography and color scheme  
+- Mobile-friendly and beginner-friendly structure
   
 ## 🚀 How to Run
   

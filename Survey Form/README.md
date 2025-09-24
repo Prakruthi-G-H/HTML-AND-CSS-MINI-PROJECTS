@@ -18,6 +18,10 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 - `README.md` → Project documentation
 
 
+## 📌 Features
+
+
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

@@ -20,6 +20,13 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 
 ## 📌 Features
 
+- Clean and modern responsive layout
+- Grid-based alignment for multiple input fields
+- Input fields for name, address, contact, and personal details
+- Dropdown selection for countries
+- Radio buttons for gender and multiple ratings
+- Focus effect on input fields for better UI
+- Beginner-friendly and mobile-friendly design
 
 
 ## 👩‍💻 Developed by

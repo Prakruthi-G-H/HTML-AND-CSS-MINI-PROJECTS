@@ -1,3 +1,8 @@
+## 🔧 Technologies Used
+
+- **HTML5** – For structuring the webpage content
+- **CSS3** – For styling the layout
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

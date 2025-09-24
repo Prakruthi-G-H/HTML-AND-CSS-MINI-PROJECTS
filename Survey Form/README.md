@@ -2,7 +2,7 @@ This project is a responsive survey form built using HTML and CSS. The form coll
 
 ## 🔗 Live Demo Links
 
-Survey Form
+Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form)
 
 ## 🔧 Technologies Used
 

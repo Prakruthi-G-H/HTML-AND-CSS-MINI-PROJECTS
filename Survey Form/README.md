@@ -11,6 +11,13 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 - **HTML5** – For structuring the webpage content
 - **CSS3** – For styling the layout
 
+## 📁 Folder Structure
+
+- `index.html` → Main HTML file  
+- `SurveyForm.css` → Stylesheet for the page  
+- `README.md` → Project documentation
+
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

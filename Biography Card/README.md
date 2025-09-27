@@ -17,6 +17,13 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - `index.html` → Main HTML file
 - `BiographyCard.css` → Main stylesheet 
 - `README.md` → Project documentation
+
+## ✨ Features
+- Centered, responsive card layout
+- Smooth hover transition
+- Clear typography and spacing
+- External “Read More” button (opens in a new tab)
+- Beginner-friendly, well-organized CSS classes
   
 ## 👩‍💻 Developed by
 

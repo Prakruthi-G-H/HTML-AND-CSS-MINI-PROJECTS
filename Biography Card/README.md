@@ -2,6 +2,10 @@
 ## 📇 Biography Card – A.P.J. Abdul Kalam
 A clean, responsive Biography Card built with HTML & CSS. It showcases a short bio of Dr. A.P.J. Abdul Kalam
 
+
+## 🔗 Live Demo Links
+Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Biography%20Card)
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

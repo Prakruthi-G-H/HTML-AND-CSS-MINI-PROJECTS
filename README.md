@@ -24,7 +24,7 @@ Each project is placed in its own folder for better organization and learning.
 
 | Project Name         | Live Demo Link                                                   |
 |----------------------|-----------------------------------------------------------------|
-| Tribute Page         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/TributePage/)         |
+| Tribute Page         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Tribute%20Page/)         |
 | Accordion            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Accordion%20Page/)    |
 | Buttons              | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Buttons/)              |
 | Card                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Card/)                 |

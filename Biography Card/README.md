@@ -13,6 +13,11 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - **HTML5** –Semantic structure
 - **CSS3** – Layout, hover overlay, transitions, responsive centering
 
+## 📁 Folder Structure
+- `index.html` → Main HTML file
+- `BiographyCard.css` → Main stylesheet 
+- `README.md` → Project documentation
+  
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

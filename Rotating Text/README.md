@@ -6,6 +6,11 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 
  Rotating Text - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text)
 
+## 🔧 Technologies Used
+
+- **HTML5** – For structuring the webpage content and headings  
+- **CSS3** – For styling, layout (Flexbox), and text rotation using keyframe animations  
+
 
 ## 📁 Folder Structure
 - `index.html` → Main HTML file

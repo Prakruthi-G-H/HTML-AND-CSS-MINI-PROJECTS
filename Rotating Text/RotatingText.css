@@ -10,6 +10,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 0 10px;
 }
 
 h1{
@@ -76,5 +77,33 @@ h1{
     }
     95%{
         top: -250px;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 32px;
+    }
+    .inner_headings {
+        height: 40px;
+        line-height: 40px;
+        font-size: 28px;
+    }
+    .inner_headings span {
+        animation: ani 12s ease infinite; 
+    }
+}
+
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 26px;
+    }
+    .inner_headings {
+        height: 35px;
+        line-height: 35px;
+        font-size: 22px;
     }
 }

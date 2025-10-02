@@ -12,7 +12,12 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 - `RotatingText.css` → Main stylesheet 
 - `README.md` → Project documentation
 
-## 🚀 Features
+
+## 📌 Features 
+- Smooth rotating text animation
+- Built with pure HTML and CSS (no JavaScript needed)
+- Fully responsive design
+- Easy to customize with your own text
 
 ## 🚀 How to Run
   

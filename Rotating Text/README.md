@@ -1,3 +1,8 @@
+## 📁 Folder Structure
+- `index.html` → Main HTML file
+- `RotatingText.css` → Main stylesheet 
+- `README.md` → Project documentation
+
 ## 🚀 How to Run
   
 1. Download or clone the repository:  

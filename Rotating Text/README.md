@@ -6,6 +6,7 @@
  2. Navigate to the folder: Rotating Text/
  3. Ensure both files are present in the folder:
     - index.html
+    - RotatingText.css
 
 ## 👩‍💻 Developed by
 

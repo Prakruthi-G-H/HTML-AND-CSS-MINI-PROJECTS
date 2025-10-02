@@ -2,6 +2,11 @@
 A simple and stylish rotating text animation built with HTML & CSS.
 This project demonstrates how to create a vertical text sliding effect using CSS animations.
 
+## 🔗 Live Demo Links
+
+ Rotating Text - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text)
+
+
 ## 📁 Folder Structure
 - `index.html` → Main HTML file
 - `RotatingText.css` → Main stylesheet 

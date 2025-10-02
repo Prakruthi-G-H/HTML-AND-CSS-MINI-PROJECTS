@@ -1,3 +1,8 @@
+## 🚀 How to Run
+  
+1. Download or clone the repository: 
+
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

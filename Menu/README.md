@@ -15,7 +15,14 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - `index.html` → Main HTML file
 - `Menu.css` → Main stylesheet 
 - `README.md` → Project documentation
-   
+
+   ## 📌 Features 
+- Clean and modern navigation bar  
+- Centered layout using **Flexbox**  
+- Smooth hover animations with pseudo-elements  
+- Highlight effect with background and shadow on hover  
+- Beginner-friendly, simple, and reusable code
+  
 ## 🚀 How to Run
   
 1. Download or clone the repository:  

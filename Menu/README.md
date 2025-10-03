@@ -1,6 +1,12 @@
 
 ## 🔗 Live Demo Links
    Menu - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu)
+
+
+## 📁 Folder Structure
+- `index.html` → Main HTML file
+- `Menu.css` → Main stylesheet 
+- `README.md` → Project documentation
    
 ## 🚀 How to Run
   

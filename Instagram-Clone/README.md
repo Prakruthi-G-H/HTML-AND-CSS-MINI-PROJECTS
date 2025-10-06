@@ -15,6 +15,7 @@ The goal of this project is to **practice real-world UI development** and improv
 
 - **HTML5** – For Structure and layout
 - **CSS3** – For Styling, alignment, responsiveness
+-  **Font Awesome** - Icons for Facebook login and other UI elements
 
 ## 💻 Folder Structure
 - `index.html` → Main HTML file

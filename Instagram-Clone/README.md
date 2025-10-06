@@ -9,4 +9,4 @@ The goal of this project is to **practice real-world UI development** and improv
 
 ## 🔗 Live Demo Links
 
- Instagram Login Page Clone
+ Instagram Login Page Clone - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Instagram-Clone)

@@ -25,4 +25,11 @@ The goal of this project is to **practice real-world UI development** and improv
 ## 📌 Features 
 - Fully designed login interface
 - Footer with multiple meta links and language selector
-- Clean and minimal responsive layout 
+- Clean and minimal responsive layout
+
+## 🧩 Future Enhancements
+
+- Add JavaScript-based login validation (fake alert or toast)
+- Add show/hide password functionality
+- Make the layout fully mobile-responsive
+- Include animations for smoother transitions

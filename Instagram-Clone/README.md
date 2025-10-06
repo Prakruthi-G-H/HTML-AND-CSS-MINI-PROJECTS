@@ -39,6 +39,8 @@ The goal of this project is to **practice real-world UI development** and improv
    `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS.git`
 
 2. Navigate to the folder: Instagram-Clone/
- 3. Ensure both files are present in the folder:
+3. Ensure both files are present in the folder:
     - index.html
     - Instagram.css
+ 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+ 

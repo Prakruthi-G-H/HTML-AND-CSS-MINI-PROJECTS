@@ -23,4 +23,6 @@ The goal of this project is to **practice real-world UI development** and improv
 - `README.md` → Project documentation
 
 ## 📌 Features 
-- Fully designed login interface 
+- Fully designed login interface
+- Footer with multiple meta links and language selector
+- Clean and minimal responsive layout 

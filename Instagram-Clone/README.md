@@ -32,3 +32,9 @@ The goal of this project is to **practice real-world UI development** and improv
 - Add JavaScript-based login validation (fake alert or toast)
 - Add show/hide password functionality
 - Include animations for smoother transitions
+
+## 🚀 How to Run
+  
+1. Download or clone the repository:  
+   `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS.git`
+    

@@ -15,3 +15,8 @@ The goal of this project is to **practice real-world UI development** and improv
 
 - **HTML5** – For Structure and layout
 - **CSS3** – For Styling, alignment, responsiveness
+
+## 💻 Folder Structure
+- `index.html` → Main HTML file
+- `Instagram.css` → Main stylesheet 
+- `README.md` → Project documentation

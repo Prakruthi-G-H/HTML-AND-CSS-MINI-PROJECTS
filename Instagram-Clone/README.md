@@ -20,3 +20,6 @@ The goal of this project is to **practice real-world UI development** and improv
 - `index.html` → Main HTML file
 - `Instagram.css` → Main stylesheet 
 - `README.md` → Project documentation
+
+## 📌 Features 
+- Fully designed login interface 

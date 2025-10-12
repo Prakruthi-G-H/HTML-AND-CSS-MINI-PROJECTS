@@ -18,6 +18,8 @@ The goal of this project is to **practice real-world UI development** and improv
 -  **Font Awesome** - Icons for Facebook login and other UI elements
 
 ## 💻 Folder Structure
+
+- `/images` → Contains all portfolio images  
 - `index.html` → Main HTML file
 - `Instagram.css` → Main stylesheet 
 - `README.md` → Project documentation

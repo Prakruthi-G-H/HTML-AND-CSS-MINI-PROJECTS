@@ -13,3 +13,7 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 - **CSS3** — For styling, responsiveness, and layout management  
 
 ## 📁 Folder Structure
+
+- `index.html` → Main HTML file  
+- `JobApplicationForm.css` → Stylesheet for the page  
+- `README.md` → Project documentation

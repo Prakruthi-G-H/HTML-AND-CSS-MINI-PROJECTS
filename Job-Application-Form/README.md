@@ -24,4 +24,6 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 - 🎨 **Modern UI** — Simple layout with pleasant color palette (Peru background + black theme)  
 - 🧩 **Grid Layout** — Form fields are organized neatly using CSS Grid  
 - ⚡ **Interactive Elements** — Input focus highlights and hover effects on the button  
-- 📂 **File Upload Option** — Allows users to upload their resume directly  
+- 📂 **File Upload Option** — Allows users to upload their resume directly
+
+## ✨ Future Enhancements

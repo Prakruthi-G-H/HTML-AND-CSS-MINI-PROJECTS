@@ -17,3 +17,5 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 - `index.html` → Main HTML file  
 - `JobApplicationForm.css` → Stylesheet for the page  
 - `README.md` → Project documentation
+
+## 📌 Features

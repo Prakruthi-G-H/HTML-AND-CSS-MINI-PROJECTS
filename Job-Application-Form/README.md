@@ -11,3 +11,5 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 
 - **HTML5** — For form structure and input fields  
 - **CSS3** — For styling, responsiveness, and layout management  
+
+## 📁 Folder Structure

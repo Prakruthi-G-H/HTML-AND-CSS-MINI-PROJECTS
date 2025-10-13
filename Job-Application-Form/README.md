@@ -41,3 +41,4 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 3. Ensure both files are present in the folder:
     - index.html
     - JobApplicationForm.css
+4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)

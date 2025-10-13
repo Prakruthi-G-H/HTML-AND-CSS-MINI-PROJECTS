@@ -6,3 +6,8 @@ It allows users to enter their personal and job-related details such as name, em
 ## 🔗 Live Demo Links
 
 Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Job-Application-Form)
+
+## 🔧 Technologies Used
+
+- **HTML5** — For form structure and input fields  
+- **CSS3** — For styling, responsiveness, and layout management  

@@ -27,3 +27,8 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 - 📂 **File Upload Option** — Allows users to upload their resume directly
 
 ## ✨ Future Enhancements
+
+- Add form validation using JavaScript
+- Include backend integration(Java Servlets)
+- Store submitted data in a database
+- Add success/error messages after form submission

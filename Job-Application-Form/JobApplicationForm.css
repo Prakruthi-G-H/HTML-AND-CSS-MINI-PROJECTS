@@ -86,4 +86,73 @@ button:hover{
     .textarea_control{
     grid-column: 1 / span 1;
 } 
+
+}
+
+@media (max-width: 768px) {
+    body {
+        background: #111;
+        padding: 10px;
+    }
+
+    .box {
+        width: 100%;
+        margin-top: 30px;
+        padding: 15px;
+        box-shadow: none;
+    }
+
+    h1 {
+        font-size: 22px;
+        text-align: center;
+        color: #fff;
+    }
+
+    .form_container {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .textarea_control {
+        grid-column: 1 / span 1;
+    }
+
+    input, select, textarea {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        background: blue;
+        color: white;
+        border-radius: 6px;
+    }
+
+    button:hover {
+        background: rgb(214, 40, 90);
+        color: #000;
+    }
+}
+
+@media (max-width: 460px) {
+    .box {
+        padding: 12px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    input, select, textarea {
+        font-size: 13px;
+        padding: 6px;
+    }
+
+    button {
+        font-size: 15px;
+        padding: 8px;
+    }
 }

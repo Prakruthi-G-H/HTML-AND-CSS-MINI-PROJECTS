@@ -38,3 +38,6 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS.git`
 2. Navigate to the folder: Job-Application-Form/
+3. Ensure both files are present in the folder:
+    - index.html
+    - JobApplicationForm.css

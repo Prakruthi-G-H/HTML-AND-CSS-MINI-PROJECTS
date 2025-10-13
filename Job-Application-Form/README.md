@@ -42,3 +42,10 @@ Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-
     - index.html
     - JobApplicationForm.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)

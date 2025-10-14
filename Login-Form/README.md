@@ -7,3 +7,6 @@ It allows users to log in by entering their email/username and password, providi
 Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)
 
 ## 🔧 Technologies Used
+
+- **HTML5** — For creating the form structure and input fields
+- **CSS3** — For modern design, layout, and responsiveness

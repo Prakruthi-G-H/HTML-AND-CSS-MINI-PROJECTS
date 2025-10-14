@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://cdn.pixabay.com/photo/2021/07/06/19/26/drops-6392473_640.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color: white;
+    top: 25%;
+    left: 40%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 40px  -8px rgb(29, 113, 215) ;
+}
+
+.background{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 370px;
+    left: calc(40% - 25px);
+    
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox label{
+    margin: 0;
+    padding: 0 ;
+    font-weight: bold;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.loginbox input[type="text"] , input[type="password"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.loginbox input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 30px;
+    background: linear-gradient(to bottom, #82a19a 0%, #5f87dc 100%);
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.loginbox input[type="submit"]:hover{
+    cursor: pointer;
+    background: #ffc187;
+    color: #000;
+}
+
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgray;
+}
+
+.loginbox a:hover{
+    color: #ffc107;
+}
+
+ input[type="text"]:focus,input[type="password"]:focus {
+  border-bottom: 2px solid #00f7ff;
+  transition: 0.3s;
+}
+
+
+
+   
+  @media (max-width: 600px) {
+    .loginbox {
+      width: 90%;
+      left: 5%;
+      top: 15%;
+    }
+  
+    .background {
+      left: calc(50% - 50px);
+
+    }
+  
+    h1 {
+      font-size: 20px;
+    }
+  }
+/*   
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #ffffff;
+    }
+  
+    .loginbox {
+      background-color: #333;
+    }
+  
+    input, button {
+      background-color: #555;
+      color: #fff;
+    }
+  }
+   */
+
+ 

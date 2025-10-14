@@ -16,3 +16,5 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - `index.html` → Main HTML file  
 - `LoginForm.css` → Stylesheet for the page  
 - `README.md` → Project documentation
+
+## 📌 Features

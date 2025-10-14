@@ -12,3 +12,7 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - **CSS3** — For modern design, layout, and responsiveness
 
 ## 📁 Folder Structure
+
+- `index.html` → Main HTML file  
+- `LoginForm.css` → Stylesheet for the page  
+- `README.md` → Project documentation

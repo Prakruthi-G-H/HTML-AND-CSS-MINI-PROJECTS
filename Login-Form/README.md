@@ -18,3 +18,8 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - `README.md` → Project documentation
 
 ## 📌 Features
+
+- 📱 **Responsive Design** – Adjusts smoothly for mobile, tablet, and desktop screens.  
+- 🖼️ **Fitted Background** – Full-screen background image.  
+- 💡 **Clean UI** – Simple and elegant layout with focus and hover effects.  
+- 🔒 **Login Box** – Includes Username and Password fields, Login button, and helpful links.  

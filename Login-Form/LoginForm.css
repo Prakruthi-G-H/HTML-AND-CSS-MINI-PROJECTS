@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(https://cdn.pixabay.com/photo/2021/07/06/19/26/drops-6392473_640.jpg);
+    background: url(https://cdn.pixabay.com/photo/2021/07/06/19/26/drops-6392473_640.jpg) no-repeat center center fixed;
     background-size: cover;
     font-family: sans-serif;
 }
@@ -128,3 +128,4 @@ h1{
    */
 
  
+

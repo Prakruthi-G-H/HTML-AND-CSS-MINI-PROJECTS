@@ -30,3 +30,5 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - Include Form Validation for empty fields or incorrect input
 - Connect with Backend (Java Servlets) for authentication
 - Add Forgot Password and Signup options
+
+## 🚀 How to Run

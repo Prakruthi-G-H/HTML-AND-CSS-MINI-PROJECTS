@@ -23,3 +23,5 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - 🖼️ **Fitted Background** – Full-screen background image.  
 - 💡 **Clean UI** – Simple and elegant layout with focus and hover effects.  
 - 🔒 **Login Box** – Includes Username and Password fields, Login button, and helpful links.  
+
+## ✨ Future Enhancements

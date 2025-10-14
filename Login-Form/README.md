@@ -25,3 +25,8 @@ Login Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJE
 - 🔒 **Login Box** – Includes Username and Password fields, Login button, and helpful links.  
 
 ## ✨ Future Enhancements
+
+- Add Show/Hide Password toggle using JavaScript
+- Include Form Validation for empty fields or incorrect input
+- Connect with Backend (Java Servlets) for authentication
+- Add Forgot Password and Signup options

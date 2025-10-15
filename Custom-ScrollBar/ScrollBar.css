@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -50,4 +51,5 @@ p{
     background: linear-gradient(transparent,rgb(173, 38, 137),rgb(45, 158, 199) ,rgb(219, 125, 30) );
     border-radius: 5px;
 }
+
 

@@ -58,6 +58,10 @@ p{
     
 }
 
+.scroll-box::-webkit-scrollbar {
+    width: 12px;
+}
+
 
 
 

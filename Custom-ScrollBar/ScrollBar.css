@@ -67,6 +67,21 @@ p{
     border-radius: 5px;
 }
 
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 8vw;
+        padding: 8px 15px;
+    }
+    p {
+        font-size: 3vw;
+        padding: 5px 0;
+    }
+    div {
+        padding: 3vw;
+    }
+}
+
+
 
 
 

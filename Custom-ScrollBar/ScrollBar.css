@@ -82,6 +82,20 @@ p{
 }
 
 
+@media screen and (max-width: 480px) {
+    h2 {
+        font-size: 10vw;
+        padding: 5px 10px;
+    }
+    p {
+        font-size: 4vw;
+        padding: 3px 0;
+    }
+    div {
+        padding: 2vw;
+    }
+}
+
 
 
 

@@ -25,3 +25,7 @@ Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - 📱 **Responsive Design** — Text and layout adjust dynamically on all screen sizes  
 
 ## ✨ Future Enhancements
+
+- Add smooth scrolling animation using JavaScript  
+- Create dark/light mode variants for scrollbar design  
+- Add horizontal scrollbar customization demo 

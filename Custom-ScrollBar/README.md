@@ -19,3 +19,7 @@ Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - `README.md` → Project documentation
 
 ## 📌 Features
+
+- 🌈 **Gradient Scrollbar** — A colorful, animated scrollbar using CSS linear gradients  
+- 🖱️ **Hover Effects** — Scrollbar thumb changes color smoothly when hovered
+- 📱 **Responsive Design** — Text and layout adjust dynamically on all screen sizes  

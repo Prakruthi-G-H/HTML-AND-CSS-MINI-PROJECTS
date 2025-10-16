@@ -32,5 +32,7 @@ Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 
 ## 🚀 How to Run
 
+1. Download or clone the repository:  
+   `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-MINI-PROJECTS.git`
 
 ## 🚀 How to Run

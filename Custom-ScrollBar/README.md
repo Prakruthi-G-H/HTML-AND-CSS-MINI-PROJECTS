@@ -17,3 +17,5 @@ Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - `index.html` → Main HTML file  
 - `ScrollBar.css` → Stylesheet for scrollbar styling and page layout  
 - `README.md` → Project documentation
+
+## 📌 Features

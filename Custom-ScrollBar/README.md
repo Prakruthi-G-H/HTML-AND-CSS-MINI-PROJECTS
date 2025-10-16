@@ -28,6 +28,9 @@ Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 
 - Add smooth scrolling animation using JavaScript  
 - Create dark/light mode variants for scrollbar design  
-- Add horizontal scrollbar customization demo 
+- Add horizontal scrollbar customization demo
+
+## 🚀 How to Run
+
 
 ## 🚀 How to Run

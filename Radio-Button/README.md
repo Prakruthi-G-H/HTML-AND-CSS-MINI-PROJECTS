@@ -9,3 +9,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 
  
 ## 🔧 Technologies Used
+
+- **HTML5** — For structure and layout

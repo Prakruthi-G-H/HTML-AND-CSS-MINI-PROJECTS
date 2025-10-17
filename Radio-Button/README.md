@@ -12,3 +12,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 
 - **HTML5** — For structure and layout
 - **CSS3** — For custom radio button styling, animations, and gradient effects  
+
+## 📁 Folder Structure

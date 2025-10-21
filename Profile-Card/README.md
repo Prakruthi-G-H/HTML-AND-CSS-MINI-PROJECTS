@@ -8,3 +8,6 @@ It features a personal image, role description, social media follower counts, an
 Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Profile-Card)
 
 ## 💻 Technologies Used
+
+- **HTML5** – For creating the structure of the profile card
+- **CSS3** – For styling, animations, and layout

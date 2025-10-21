@@ -12,11 +12,7 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - **HTML5** – For creating the structure of the profile card
 - **CSS3** – For styling, animations, and layout
 
-## 📁 Folder Structure
 
-- `index.html` → Main HTML file  
-- `Profilecard.css` → Stylesheet for the page  
-- `README.md` → Project documentation
 
 ## 📌 Features
 

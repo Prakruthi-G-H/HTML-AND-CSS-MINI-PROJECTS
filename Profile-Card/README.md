@@ -7,3 +7,4 @@ It features a personal image, role description, social media follower counts, an
 
 Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Profile-Card)
 
+## 💻 Technologies Used

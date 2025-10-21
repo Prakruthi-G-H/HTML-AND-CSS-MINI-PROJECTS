@@ -17,3 +17,5 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - `index.html` → Main HTML file  
 - `Profilecard.css` → Stylesheet for the page  
 - `README.md` → Project documentation
+
+## 📌 Features

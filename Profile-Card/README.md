@@ -29,3 +29,4 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 3. Ensure both files are present in the folder:
     - index.html
     - Profilecard.css
+4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)

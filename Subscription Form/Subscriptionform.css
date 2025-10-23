@@ -118,3 +118,16 @@ span{
     font-size: 14px;
     margin: 20px 0 0;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        height: auto;
+        grid-template-columns: 1fr;
+    }
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+

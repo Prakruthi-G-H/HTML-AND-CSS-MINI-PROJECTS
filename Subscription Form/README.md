@@ -20,3 +20,9 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - `Subcription Image.png` → Image used in the subscription form  
 
 ## 📌 Features
+
+- 📱 **Fully Responsive Design** — Works perfectly on mobile, tablet, and desktop screens  
+- 🎨 **Modern UI** — Gradient background, clean typography, and a visually appealing layout  
+- 🧩 **Grid Layout** — Form fields and image are neatly organized using CSS Grid
+- ✉️ **Email Input** — Users can enter their email to subscribe  
+- ✅ **No Spams Included** — Displays reassuring message under the form  

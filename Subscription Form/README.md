@@ -33,3 +33,5 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - Integrate backend to store email addresses  
 - Add success/error messages on form submission  
 - Improve animations and transitions for better interactivity  
+
+## 🚀 How to Run

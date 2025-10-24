@@ -26,3 +26,10 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - 🧩 **Grid Layout** — Form fields and image are neatly organized using CSS Grid
 - ✉️ **Email Input** — Users can enter their email to subscribe  
 - ✅ **No Spams Included** — Displays reassuring message under the form  
+
+## ✨ Future Enhancements
+
+- Add JavaScript for email validation  
+- Integrate backend to store email addresses  
+- Add success/error messages on form submission  
+- Improve animations and transitions for better interactivity  

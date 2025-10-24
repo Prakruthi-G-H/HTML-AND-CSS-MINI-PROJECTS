@@ -18,3 +18,5 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - `Subscriptionform.css` → Stylesheet for the page  
 - `README.md` → Project documentation  
 - `Subcription Image.png` → Image used in the subscription form  
+
+## 📌 Features

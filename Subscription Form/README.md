@@ -13,3 +13,8 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 - **CSS3** — For styling, layout, gradients, and responsiveness 
 
 ## 📁 Folder Structure
+
+- `index.html` → Main HTML file  
+- `Subscriptionform.css` → Stylesheet for the page  
+- `README.md` → Project documentation  
+- `Subcription Image.png` → Image used in the subscription form  

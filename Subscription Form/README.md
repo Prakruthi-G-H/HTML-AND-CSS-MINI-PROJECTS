@@ -11,3 +11,5 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
 
 - **HTML5** — For the structure and input fields  
 - **CSS3** — For styling, layout, gradients, and responsiveness 
+
+## 📁 Folder Structure

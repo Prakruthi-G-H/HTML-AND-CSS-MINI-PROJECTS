@@ -8,3 +8,5 @@ It allows users to enter their email address to subscribe for notifications or u
 Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
 
 ## 🔧 Technologies Used
+
+- **HTML5** — For the structure and input fields  

@@ -43,3 +43,4 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MIN
     - index.html
     - Subscriptionform.css
     - Subcription Image.png
+4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)

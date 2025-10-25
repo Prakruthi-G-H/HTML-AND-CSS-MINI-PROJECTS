@@ -11,7 +11,7 @@ Each project is placed in its own folder for better organization and learning.
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 | Accordion Page       | Expandable/collapsible FAQ section           |
 | Buttons              | Beautiful styled button variations           |
-| Card                 | Simple and modern card layout                 |
+| Biography Card       | Simple and modern card layout                 |
 | Dropdown             | Custom dropdown menu design                  |
 | Form                 | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |

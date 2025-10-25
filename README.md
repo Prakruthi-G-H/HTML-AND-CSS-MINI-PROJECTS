@@ -10,7 +10,6 @@ Each project is placed in its own folder for better organization and learning.
 |----------------------|----------------------------------------------|
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 | Accordion Page       | Expandable/collapsible FAQ section           |
-| Buttons              | Beautiful styled button variations           |
 | Biography Card       | Simple and modern card layout                 |
 | Dropdown             | Custom dropdown menu design                  |
 | Job-Application-Form | Multiple form layouts including contact and register forms|

@@ -17,7 +17,7 @@ Each project is placed in its own folder for better organization and learning.
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Rotating Text        | Animation of rotating words/text             |
-| ScrollBar            | Custom scrollbar styling                     |
+| Custom-ScrollBar     | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
 
 ## 🔗 Live Demo Links

@@ -20,7 +20,8 @@ Each project is placed in its own folder for better organization and learning.
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
 |Subscription Form     |
-|Radio-Button         |
+|Radio-Button          |
+|Instagram-Clone       |
 
 ## 🔗 Live Demo Links
 

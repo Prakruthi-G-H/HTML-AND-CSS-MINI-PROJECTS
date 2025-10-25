@@ -13,7 +13,7 @@ Each project is placed in its own folder for better organization and learning.
 | Buttons              | Beautiful styled button variations           |
 | Biography Card       | Simple and modern card layout                 |
 | Dropdown             | Custom dropdown menu design                  |
-| Form                 | Multiple form layouts including contact and register forms|
+| Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Rotating Text        | Animation of rotating words/text             |

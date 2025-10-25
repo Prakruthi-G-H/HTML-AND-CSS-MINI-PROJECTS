@@ -9,7 +9,7 @@ Each project is placed in its own folder for better organization and learning.
 | Project Name         | Description                                  |
 |----------------------|----------------------------------------------|
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
-| Accordion            | Expandable/collapsible FAQ section           |
+| Accordion Page       | Expandable/collapsible FAQ section           |
 | Buttons              | Beautiful styled button variations           |
 | Card                 | Simple and modern card layout                 |
 | Dropdown             | Custom dropdown menu design                  |

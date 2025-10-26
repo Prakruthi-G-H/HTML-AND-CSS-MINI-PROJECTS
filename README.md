@@ -35,6 +35,7 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
 | ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/ScrollBar/)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
+| Subscription Form 
 
 ## 🚀 How to Run Any Project
 

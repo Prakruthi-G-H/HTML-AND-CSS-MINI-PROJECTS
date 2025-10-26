@@ -37,6 +37,7 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    |
 | Radio-Button         |
+| Instagram-Clone      |
 
 ## 🚀 How to Run Any Project
 

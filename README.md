@@ -17,9 +17,9 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | Animation of rotating words/text             |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
-|Subscription Form     |
-|Radio-Button          |
-|Instagram-Clone       |
+| Subscription Form     |
+| Radio-Button          |
+| Instagram-Clone       |
 
 ## 🔗 Live Demo Links
 
@@ -33,7 +33,7 @@ Each project is placed in its own folder for better organization and learning.
 | Login Form           | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login%20Form/)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
-| ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/ScrollBar/)            |
+| Custom-ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/ScrollBar/)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    |
 | Radio-Button         |

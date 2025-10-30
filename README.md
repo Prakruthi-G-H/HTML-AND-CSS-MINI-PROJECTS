@@ -19,7 +19,7 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | Simple user feedback survey                  |
 | Subscription Form     |Subscription form design
 | Radio-Button          |Custom radio button styling
-| Instagram-Clone       |
+| Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS
 
 ## 🔗 Live Demo Links
 

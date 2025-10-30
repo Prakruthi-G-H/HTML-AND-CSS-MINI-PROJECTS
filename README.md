@@ -17,7 +17,7 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | Animation of rotating words/text             |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
-| Subscription Form     |
+| Subscription Form     |Subscription form design
 | Radio-Button          |
 | Instagram-Clone       |
 

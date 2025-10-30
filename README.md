@@ -35,7 +35,7 @@ Each project is placed in its own folder for better organization and learning.
 | Custom-ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/ScrollBar/)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
-| Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/RadioButton)
+| Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
 | Instagram-Clone      | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Instagram-Clone)
 
 ## 🚀 How to Run Any Project

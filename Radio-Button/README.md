@@ -32,3 +32,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 - Add JavaScript functionality to display selected course details dynamically
 - Include animations or tooltips for a more interactive experience
 - Extend options for more course categories
+
+## 🚀 How to Run

@@ -24,3 +24,4 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 - 🎨 Modern UI Design – Gradient backgrounds with attractive course selection cards
 - 🖱️ Custom Radio Buttons – Smooth hover and click effects replacing default inputs
 - 💡 Interactive Feedback – Selection highlight with color and border transitions
+- 📱 Responsive Layout – Fits perfectly across all devices and screen sizes

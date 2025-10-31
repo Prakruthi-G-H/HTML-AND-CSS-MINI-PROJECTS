@@ -20,3 +20,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 - `README.md` → Project documentation
 
 ## 📌 Features
+
+- 🎨 Modern UI Design – Gradient backgrounds with attractive course selection cards

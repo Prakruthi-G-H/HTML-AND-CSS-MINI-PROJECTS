@@ -28,3 +28,5 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 - ✨ Simple & Clean Code – Easy to understand and modify for beginners
 
 ## ✨ Future Enhancements
+
+- Add JavaScript functionality to display selected course details dynamically

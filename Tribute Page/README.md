@@ -8,7 +8,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 ## 🔧 Technologies Used
 
-- **HTML5** – For structuring the webpage content
+- **HTML5** –For structuring the content of the tribute page  
 - **CSS3** – For styling the layout
 
 ## 📁 Folder Structure

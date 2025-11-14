@@ -35,6 +35,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
     - index.html
     - TributePage.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+5. Enjoy exploring the tribute page dedicated to one of India’s greatest visionaries 🇮🇳
 
 ## 👩‍💻 Developed by
 

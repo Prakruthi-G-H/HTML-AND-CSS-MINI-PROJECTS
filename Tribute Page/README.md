@@ -21,7 +21,8 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 - 🧑‍🚀 **Biography Section** – Overview of Dr. Kalam’s life and achievements
 - 💬 **Inspirational Quotes** – Highlights some of his most motivating thoughts
-- 🎨 **Clean & Elegant UI** – Simple layout emphasizing respect and clarity  
+- 🎨 **Clean & Elegant UI** – Simple layout emphasizing respect and clarity
+- 📱 **Responsive Design** – Works perfectly on mobile, tablet, and desktop 
 - Grid-based design for text and image alignment  
 - Dedicated sections for quotes and biography  
 - Easy-to-read typography and color scheme  

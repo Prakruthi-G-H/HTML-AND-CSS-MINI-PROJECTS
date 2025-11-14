@@ -24,9 +24,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - 🎨 **Clean & Elegant UI** – Simple layout emphasizing respect and clarity
 - 📱 **Responsive Design** – Works perfectly on mobile, tablet, and desktop 
 -  🧩 **Grid-Based Layout** – Aligns image and text sections neatly   
-- Dedicated sections for quotes and biography  
-- Easy-to-read typography and color scheme  
-- Mobile-friendly and beginner-friendly structure
+- 🧠 **Beginner-Friendly Code** – Ideal for HTML & CSS learning and practice 
   
 ## 🚀 How to Run
   

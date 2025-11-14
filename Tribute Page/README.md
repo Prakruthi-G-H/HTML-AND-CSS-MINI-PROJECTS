@@ -23,7 +23,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - 💬 **Inspirational Quotes** – Highlights some of his most motivating thoughts
 - 🎨 **Clean & Elegant UI** – Simple layout emphasizing respect and clarity
 - 📱 **Responsive Design** – Works perfectly on mobile, tablet, and desktop 
-- Grid-based design for text and image alignment  
+-  🧩 **Grid-Based Layout** – Aligns image and text sections neatly   
 - Dedicated sections for quotes and biography  
 - Easy-to-read typography and color scheme  
 - Mobile-friendly and beginner-friendly structure

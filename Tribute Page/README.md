@@ -41,6 +41,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 - Add a timeline section to showcase key milestones in his life
 - 🎞️ Include animations or transitions for smoother scrolling
+- 🎧 Embed a motivational speech or quote audio
 
 ## 👩‍💻 Developed by
 

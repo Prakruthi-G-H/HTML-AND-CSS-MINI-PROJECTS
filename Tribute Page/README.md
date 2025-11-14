@@ -39,6 +39,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 ## ✨ Future Enhancements
 
+- Add a timeline section to showcase key milestones in his life
 
 ## 👩‍💻 Developed by
 

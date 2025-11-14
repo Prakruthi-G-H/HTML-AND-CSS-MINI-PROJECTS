@@ -19,7 +19,7 @@ Tribute Page - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 ## 📌 Features
 
-- Clean and responsive layout  
+- 🧑‍🚀 **Biography Section** – Overview of Dr. Kalam’s life and achievements  
 - Grid-based design for text and image alignment  
 - Dedicated sections for quotes and biography  
 - Easy-to-read typography and color scheme  

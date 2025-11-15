@@ -9,7 +9,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 ## 🔧 Technologies Used
 
 - **HTML5** — Structured form inputs and layout  
-- **CSS3** – For styling the layout
+- **CSS3** — Styling, spacing, responsiveness, and hover/focus effects  
 
 ## 📁 Folder Structure
 

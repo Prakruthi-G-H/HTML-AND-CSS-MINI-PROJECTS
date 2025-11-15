@@ -40,6 +40,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 
 - 📝 Add JavaScript validation for all fields
 - 💾 Save form responses using LocalStorage
+- 🔁 Add a reset button to clear the form
    
 ## 👩‍💻 Developed by
 

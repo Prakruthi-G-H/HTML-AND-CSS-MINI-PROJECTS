@@ -42,6 +42,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 - 💾 Save form responses using LocalStorage
 - 🔁 Add a reset button to clear the form
 - 📤 Integrate with backend (Java + MySQL / Spring Boot) to store submissions
+- 🔔 Add success/error messages after submitting
    
 ## 👩‍💻 Developed by
 

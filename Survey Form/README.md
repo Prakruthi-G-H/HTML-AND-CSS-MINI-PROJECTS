@@ -24,6 +24,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 - 📱 Fully Responsive Design – Works smoothly on mobile, tablet, and desktop
 - 🧩 Grid-Based Alignment – Neatly arranges multiple form fields
 - 🧾 Comprehensive Input Fields – Collects name, address, contact info, and personal details
+- 🧒 Beginner-Friendly Code – Simple HTML + CSS structure easy to understand and customize
 - Grid-based alignment for multiple input fields
 - Input fields for name, address, contact, and personal details
 - Dropdown selection for countries

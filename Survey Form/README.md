@@ -20,7 +20,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 
 ## 📌 Features
 
-- 🧾 **Clean & Modern Layout** – Simple, professional, and easy to navigate  
+- 🎨 Clean and Modern UI – Visually appealing purple–gold theme
 - Grid-based alignment for multiple input fields
 - Input fields for name, address, contact, and personal details
 - Dropdown selection for countries

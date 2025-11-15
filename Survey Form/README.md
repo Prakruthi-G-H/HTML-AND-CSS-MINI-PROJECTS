@@ -37,6 +37,8 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
 ## ✨ Future Enhancements
+
+- 📝 Add JavaScript validation for all fields
    
 ## 👩‍💻 Developed by
 

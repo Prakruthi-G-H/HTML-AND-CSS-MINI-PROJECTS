@@ -39,6 +39,7 @@ Survey Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJ
 ## ✨ Future Enhancements
 
 - 📝 Add JavaScript validation for all fields
+- 💾 Save form responses using LocalStorage
    
 ## 👩‍💻 Developed by
 

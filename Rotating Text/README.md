@@ -19,6 +19,8 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 
 
 ## 📌 Features 
+
+- 🔄 **Smooth Vertical Text Rotation** – Created using CSS keyframe animations  
 - Smooth rotating text animation
 - Built with pure HTML and CSS (no JavaScript needed)
 - Fully responsive design

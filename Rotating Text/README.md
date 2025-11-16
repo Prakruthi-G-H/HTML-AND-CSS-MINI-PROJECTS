@@ -37,6 +37,8 @@ This project demonstrates how to create a vertical text sliding effect using CSS
     - RotatingText.css
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
+## ✨ Future Enhancements
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

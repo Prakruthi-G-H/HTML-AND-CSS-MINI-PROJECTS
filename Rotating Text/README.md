@@ -39,6 +39,8 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 
 ## ✨ Future Enhancements
 
+- 🧠 Add JavaScript for advanced dynamic text loading
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

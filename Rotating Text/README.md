@@ -9,7 +9,7 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 ## 🔧 Technologies Used
 
 - **HTML5** – Structure of headings and text blocks  
-- **CSS3** – For styling, layout (Flexbox), and text rotation using keyframe animations  
+- **CSS3** – Animation, layout (Flexbox), responsiveness, and styling  
 
 
 ## 📁 Folder Structure

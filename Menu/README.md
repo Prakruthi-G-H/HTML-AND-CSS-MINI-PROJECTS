@@ -17,7 +17,8 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - `README.md` → Project documentation
 
    ## 📌 Features
-- 🎨 **Clean & Modern UI** – Minimal and elegant menu design 
+- 🎨 **Clean & Modern UI** – Minimal and elegant menu design
+- 📌 **Centered Navigation Bar** – Built using Flexbox for perfect alignment 
 - Clean and modern navigation bar  
 - Centered layout using **Flexbox**  
 - Smooth hover animations with pseudo-elements  

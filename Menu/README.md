@@ -35,6 +35,8 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
 ## ✨ Future Enhancements
+-📱 Add mobile hamburger menu for small screens
+
     
 ## 👩‍💻 Developed by
 

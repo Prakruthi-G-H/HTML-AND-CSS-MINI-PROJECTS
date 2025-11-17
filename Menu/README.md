@@ -16,7 +16,8 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - `Menu.css` → Main stylesheet 
 - `README.md` → Project documentation
 
-   ## 📌 Features 
+   ## 📌 Features
+- 🎨 **Clean & Modern UI** – Minimal and elegant menu design 
 - Clean and modern navigation bar  
 - Centered layout using **Flexbox**  
 - Smooth hover animations with pseudo-elements  

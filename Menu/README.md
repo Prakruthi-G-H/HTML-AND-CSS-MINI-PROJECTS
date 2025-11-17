@@ -20,7 +20,8 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - 🎨 **Clean & Modern UI** – Minimal and elegant menu design
 - 📌 **Centered Navigation Bar** – Built using Flexbox for perfect alignment
 -  ✨ **Smooth Hover Animations** – Border and background transitions using pseudo-elements
--  🔧 **Pure HTML & CSS Only** – No JavaScript required 
+-  🔧 **Pure HTML & CSS Only** – No JavaScript required
+-   🔰 **Beginner-Friendly Code** – Simple structure suitable for learning UI basics  
 - Clean and modern navigation bar  
 - Centered layout using **Flexbox**  
 - Smooth hover animations with pseudo-elements  

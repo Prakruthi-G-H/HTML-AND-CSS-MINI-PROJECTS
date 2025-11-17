@@ -9,7 +9,7 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 ## 🔧 Technologies Used
 
 - **HTML5** – Structure for navigation menu  
-- **CSS3** – For styling, hover effects, and transitions  
+- **CSS3** –  Styling, transitions, hover effects, and layout    
 
 ## 📁 Folder Structure
 - `index.html` → Main HTML file

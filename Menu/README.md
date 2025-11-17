@@ -33,6 +33,8 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
     - index.html
     - Menu.css
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
+
+## ✨ Future Enhancements
     
 ## 👩‍💻 Developed by
 

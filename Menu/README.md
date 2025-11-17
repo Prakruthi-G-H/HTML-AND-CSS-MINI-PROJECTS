@@ -22,11 +22,6 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 -  ✨ **Smooth Hover Animations** – Border and background transitions using pseudo-elements
 -  🔧 **Pure HTML & CSS Only** – No JavaScript required
 -   🔰 **Beginner-Friendly Code** – Simple structure suitable for learning UI basics  
-- Clean and modern navigation bar  
-- Centered layout using **Flexbox**  
-- Smooth hover animations with pseudo-elements  
-- Highlight effect with background and shadow on hover  
-- Beginner-friendly, simple, and reusable code
   
 ## 🚀 How to Run
   

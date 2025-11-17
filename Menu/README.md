@@ -38,6 +38,7 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - 🔽 Add dropdown menus for each item
 - 📱 Add mobile hamburger menu for small screens
 - 🔗 Add links to internal page sections
+- 📌 Add active page indicator
 
     
 ## 👩‍💻 Developed by

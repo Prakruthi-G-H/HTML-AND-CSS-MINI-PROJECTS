@@ -21,6 +21,8 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 ## 📌 Features
 
+- 👤 **Clean Profile Card Layout** – Well-designed card with elegant spacing  
+
 
 ## 🚀 How to Run
 

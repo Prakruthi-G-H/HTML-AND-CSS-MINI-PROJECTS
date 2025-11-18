@@ -24,7 +24,8 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - 👤 **Clean Profile Card Layout** – Well-designed card with elegant spacing
 - 🖼️ **Circular Profile Image** – Center-aligned with soft rounded style  
 - 🧾 **User Details Section** – Name, role, and a custom “Write to me” button 
-
+- 🎨 **Smooth Hover Animations** – Button and icons react on hover
+  
 ## 🚀 How to Run
 
 1. Download or clone the repository:  

@@ -43,6 +43,7 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 - 🎭 Add theme options (light/dark mode)
 - 📝 Add a bio/description section under the name
 - 🌐 Make social links clickable and functional
+- 💬 Add a pop-up contact form for “Write to me” button
 
 
 

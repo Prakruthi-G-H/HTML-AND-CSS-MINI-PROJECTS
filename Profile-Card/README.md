@@ -40,6 +40,7 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
 
 ## ✨ Future Enhancements
 
+-🎭 Add theme options (light/dark mode)
 
 ## 👩‍💻 Developed by
 

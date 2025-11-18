@@ -38,6 +38,8 @@ Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PRO
     - Profilecard.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
+## ✨ Future Enhancements
+
 
 ## 👩‍💻 Developed by
 

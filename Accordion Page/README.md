@@ -20,6 +20,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## 📌 Features 
 - **📂 Interactive Accordion UI** – Click to expand and collapse each question
+- **📝 Informative Content Sections** – HTML, CSS, JavaScript, Java, Python explained clearly
 - Smooth expand/collapse animation
 - Styled with gradients and shadows
 - Each question expands independently using radio buttons Beginner-friendly structure and code

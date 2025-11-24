@@ -35,7 +35,11 @@ This project is a simple and elegant **Accordion UI component** built using **HT
     - index.html
     - Accordionpage.css
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
-    
+
+
+## ✨ Future Enhancements
+
+
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  

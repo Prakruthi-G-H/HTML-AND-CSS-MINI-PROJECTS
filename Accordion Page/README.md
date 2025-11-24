@@ -39,6 +39,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## ✨ Future Enhancements
 - 🎭 Add sliding fade-in animation for smoother content reveal
+-  Add CSS variables to easily change theme colors
 
 ## 👩‍💻 Developed by
 

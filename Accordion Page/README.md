@@ -42,6 +42,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 -  Add CSS variables to easily change theme colors
 -  🎨 Add hover highlight effect to each question card
 -  🔁 Add “Expand All / Collapse All” version using JavaScript
+-  💬 Add icons (HTML/CSS/JS logos) beside each question
 
 ## 👩‍💻 Developed by
 

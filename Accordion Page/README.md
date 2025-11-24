@@ -9,7 +9,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## 🔧 Technologies Used
 
-- **HTML5** – For structuring the webpage content
+- **HTML5** – For building the structure of the card  
 - **CSS3** – For styling the accordion layout and transitions
 
 

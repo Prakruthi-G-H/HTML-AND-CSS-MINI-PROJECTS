@@ -25,7 +25,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - **⚡ Lightweight & Fast** – Built with pure HTML + CSS (no JavaScript required)
 - Smooth expand/collapse animation
 - Styled with gradients and shadows
-- Each question expands independently using radio buttons Beginner-friendly structure and code
+- **🎯 Radio Button Technique** - Each question expands independently using radio buttons Beginner-friendly structure and code
 
 ## 🚀 How to Run
   

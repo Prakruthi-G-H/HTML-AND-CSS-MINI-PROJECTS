@@ -41,6 +41,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - 🎭 Add sliding fade-in animation for smoother content reveal
 -  Add CSS variables to easily change theme colors
 -  🎨 Add hover highlight effect to each question card
+-  🔁 Add “Expand All / Collapse All” version using JavaScript
 
 ## 👩‍💻 Developed by
 

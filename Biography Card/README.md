@@ -32,6 +32,7 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 
 - 🖼 Add Profile Image Hover Animation – Smooth zoom-in or blur-on-hover effect
 - 🎞 Add Animated Overlay – Display quotes or achievements when the card is hovered
+- 🌐 Add Social Media Icons – Optional links to Wikipedia, Government portals, or speeches
 
   ## 🚀 How to Run
   

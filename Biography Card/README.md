@@ -10,8 +10,8 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 
 ## 🔧 Technologies Used
 
-- **HTML5** –Semantic structure
-- **CSS3** – Layout, hover overlay, transitions, responsive centering
+- **HTML5** – Semantic layout structure  
+- **CSS3** – Styling, transitions, spacing, hover overlay effects 
 
 ## 📁 Folder Structure
 - `index.html` → Main HTML file

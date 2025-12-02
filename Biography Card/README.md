@@ -23,7 +23,7 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - 🎨 **Smooth Hover Overlay** – Clean overlay animation on mouse hover  
 - ✍️ **Clean Typography** – Easy-to-read text with balanced spacing  
 - 🔗 **External “Read More” Button** – Opens detailed bio in a new tab 
-- Beginner-friendly, well-organized CSS classes
+- 📱 **Mobile-Friendly Layout** – Adjusts beautifully on small devices 
 
   ## 🚀 How to Run
   

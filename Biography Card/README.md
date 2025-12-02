@@ -19,7 +19,7 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - `README.md` → Project documentation
 
 ## ✨ Features
-- Centered, responsive card layout
+- 🖼️ **Centered Responsive Card** – Perfectly aligned on all screen sizes  
 - Smooth hover transition
 - Clear typography and spacing
 - External “Read More” button (opens in a new tab)

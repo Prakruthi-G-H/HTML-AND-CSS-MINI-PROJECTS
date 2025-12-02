@@ -21,7 +21,7 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 ## ✨ Features
 - 🖼️ **Centered Responsive Card** – Perfectly aligned on all screen sizes  
 - 🎨 **Smooth Hover Overlay** – Clean overlay animation on mouse hover  
-- Clear typography and spacing
+- ✍️ **Clean Typography** – Easy-to-read text with balanced spacing  
 - External “Read More” button (opens in a new tab)
 - Beginner-friendly, well-organized CSS classes
 

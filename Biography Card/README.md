@@ -35,6 +35,7 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - 🌐 Add Social Media Icons – Optional links to Wikipedia, Government portals, or speeches
 - 📜 Add Timeline Section – Show career milestones inside the card using a sliding panel
 - 📱 Dark/Light Theme Toggle – User can switch between themes
+- 🧠 Add Inspirational Quote Rotator – Auto-sliding quotes inside the card using pure CSS
 
   ## 🚀 How to Run
   

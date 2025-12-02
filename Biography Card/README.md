@@ -24,7 +24,8 @@ Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI
 - ✍️ **Clean Typography** – Easy-to-read text with balanced spacing  
 - 🔗 **External “Read More” Button** – Opens detailed bio in a new tab 
 - 📱 **Mobile-Friendly Layout** – Adjusts beautifully on small devices
-- 🧩 **Reusable Component** – Can be integrated into any webpage or portfolio 
+- 🧩 **Reusable Component** – Can be integrated into any webpage or portfolio
+- ⚡ **Lightweight & Fast** – Pure HTML + CSS, no JavaScript needed  
 
   ## 🚀 How to Run
   

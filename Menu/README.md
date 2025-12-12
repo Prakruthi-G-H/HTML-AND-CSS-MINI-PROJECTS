@@ -43,7 +43,7 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
     
 ## 👩‍💻 Developed by
 
-**Prakruthi G H**  
+  **Prakruthi G H**  
 📍 Bangalore, India  
 📧 prakruthigh28@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)

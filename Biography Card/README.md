@@ -6,7 +6,7 @@ This project highlights a short inspirational bio of *Dr. A.P.J. Abdul Kalam*
 
 ## 🔗 Live Demo Links
 
-Biography Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Biography%20Card)
+Biography Card – [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects//Biography%20Card)
 
 ## 🔧 Technologies Used
 

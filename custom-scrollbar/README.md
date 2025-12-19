@@ -5,7 +5,7 @@ It demonstrates how to style and animate scroll bars to enhance the user experie
 
 ## 🔗 Live Demo Link
 
-Custom Scroll Bar - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects/Custom-ScrollBar)
+Custom Scroll Bar - [Live Demo]()
 
 ## 🔧 Technologies Used
 

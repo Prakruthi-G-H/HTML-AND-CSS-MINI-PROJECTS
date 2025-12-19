@@ -4,7 +4,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## 🔗 Live Demo Links
 
-  Accordion Page - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects//Accordion%20Page)
+  Accordion Page - [Live Demo](https://accordion-page-ui.netlify.app/)
 
 
 ## 🔧 Technologies Used

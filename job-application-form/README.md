@@ -5,7 +5,7 @@ It allows users to enter their personal and job-related details such as name, em
 
 ## 🔗 Live Demo Links
 
-Job Application Form - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects/Job-Application-Form)
+Job Application Form - [Live Demo]()
 
 ## 🔧 Technologies Used
 

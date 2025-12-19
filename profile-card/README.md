@@ -5,7 +5,7 @@ It features a personal image, role description, social media follower counts, an
 
 ## 🔗 Live Demo Link
 
-Profile-Card - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects/Profile-Card)
+Profile-Card - [Live Demo]()
 
 ## 💻 Technologies Used
 

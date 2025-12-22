@@ -27,7 +27,7 @@ Each project is placed in its own folder for better organization and learning.
 |----------------------|-----------------------------------------------------------------|
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 | Accordion Page           | [Live Demo](https://accordion-page-ui.netlify.app/)    |
-| Biography Card                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Biography%20Card)                 |
+| Biography Card                 | [Live Demo](https://biography-card-ui.netlify.app/)                 |
 | Job-Application-Form                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Job-Application-Form/)                 |
 | Login Form           |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |

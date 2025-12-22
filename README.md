@@ -15,6 +15,7 @@ Each project is placed in its own folder for better organization and learning.
 | Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
+| Profile Card         | 
 | Rotating Text        | Animation of rotating words/text             |
 | Survey Form          | Simple user feedback survey                  |
 | Subscription Form     |Subscription form design

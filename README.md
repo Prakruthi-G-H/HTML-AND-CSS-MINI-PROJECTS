@@ -11,6 +11,7 @@ Each project is placed in its own folder for better organization and learning.
 | Accordion Page       | Expandable/collapsible FAQ section           |
 | Biography Card       | Simple and modern card layout                 |
 | Custom-ScrollBar     | Custom scrollbar styling                     |
+| Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS |
 | Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
@@ -18,7 +19,6 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | Simple user feedback survey                  |
 | Subscription Form     |Subscription form design
 | Radio-Button          |Custom radio button styling
-| Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 
 ## 🔗 Live Demo Links

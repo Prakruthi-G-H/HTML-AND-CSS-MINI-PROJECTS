@@ -8,7 +8,6 @@ Each project is placed in its own folder for better organization and learning.
 
 | Project Name         | Description                                  |
 |----------------------|----------------------------------------------|
-| Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 | Accordion Page       | Expandable/collapsible FAQ section           |
 | Biography Card       | Simple and modern card layout                 |
 | Job-Application-Form | Multiple form layouts including contact and register forms|
@@ -20,6 +19,7 @@ Each project is placed in its own folder for better organization and learning.
 | Subscription Form     |Subscription form design
 | Radio-Button          |Custom radio button styling
 | Instagram-Clone       |A basic UI clone of Instagram using HTML & CSS
+| Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 
 ## 🔗 Live Demo Links
 

@@ -16,10 +16,11 @@ Each project is placed in its own folder for better organization and learning.
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Profile Card         | 
+| Radio-Button          |Custom radio button styling                  |
 | Rotating Text        | Animation of rotating words/text             |
 | Survey Form          | Simple user feedback survey                  |
 | Subscription Form     |Subscription form design
-| Radio-Button          |Custom radio button styling
+
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 
 ## 🔗 Live Demo Links

@@ -10,11 +10,11 @@ Each project is placed in its own folder for better organization and learning.
 |----------------------|----------------------------------------------|
 | Accordion Page       | Expandable/collapsible FAQ section           |
 | Biography Card       | Simple and modern card layout                 |
+| Custom-ScrollBar     | Custom scrollbar styling                     |
 | Job-Application-Form | Multiple form layouts including contact and register forms|
 | Login Form           | Modern login form UI examples                              |
 | Menu                 | Horizontal and vertical navigation menus           |
 | Rotating Text        | Animation of rotating words/text             |
-| Custom-ScrollBar     | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
 | Subscription Form     |Subscription form design
 | Radio-Button          |Custom radio button styling

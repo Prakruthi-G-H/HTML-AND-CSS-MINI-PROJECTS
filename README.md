@@ -18,9 +18,8 @@ Each project is placed in its own folder for better organization and learning.
 | Profile Card         | 
 | Radio-Button          |Custom radio button styling                  |
 | Rotating Text        | Animation of rotating words/text             |
+| Subscription Form     |Subscription form design                     |
 | Survey Form          | Simple user feedback survey                  |
-| Subscription Form     |Subscription form design
-
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 
 ## 🔗 Live Demo Links

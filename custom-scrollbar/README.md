@@ -5,7 +5,7 @@ It demonstrates how to style and animate scroll bars to enhance the user experie
 
 ## 🔗 Live Demo Link
 
-Custom Scroll Bar - [Live Demo]()
+Custom Scroll Bar - [Live Demo](https://custom-scrollbar-ui.netlify.app)
 
 ## 🔧 Technologies Used
 

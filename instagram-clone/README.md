@@ -9,7 +9,7 @@ The goal of this project is to **practice real-world UI development** and improv
 
 ## 🔗 Live Demo Links
 
- Instagram Login Page Clone - [Live Demo]()
+ Instagram Login Page Clone - [Live Demo](https://insta-ui-lab.netlify.app/)
 
 ## 🔧 Technologies Used
 

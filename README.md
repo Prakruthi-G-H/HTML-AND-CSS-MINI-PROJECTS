@@ -33,10 +33,10 @@ Each project is placed in its own folder for better organization and learning.
 | Job-Application-Form                 | [Live Demo](https://job-application-form-ui.netlify.app/)                 |
 | Login Form           |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
+| Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
-| Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 
 ## 🚀 How to Run Any Project

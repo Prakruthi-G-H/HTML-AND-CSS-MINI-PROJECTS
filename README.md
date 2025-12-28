@@ -33,6 +33,7 @@ Each project is placed in its own folder for better organization and learning.
 | Job-Application-Form                 | [Live Demo](https://job-application-form-ui.netlify.app/)                 |
 | Login Form           |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
+| Profile Card         | 
 | Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |

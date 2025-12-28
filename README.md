@@ -26,7 +26,6 @@ Each project is placed in its own folder for better organization and learning.
 
 | Project Name         | Live Demo Link                                                   |
 |----------------------|-----------------------------------------------------------------|
-| Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 | Accordion Page           | [Live Demo](https://accordion-page-ui.netlify.app/)    |
 | Biography Card                 | [Live Demo](https://biography-card-ui.netlify.app/)                 |
 | Custom-ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Custom-ScrollBar)            |
@@ -38,7 +37,7 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
 | Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
-
+| Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 
 ## 🚀 How to Run Any Project
 

@@ -29,12 +29,12 @@ Each project is placed in its own folder for better organization and learning.
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 | Accordion Page           | [Live Demo](https://accordion-page-ui.netlify.app/)    |
 | Biography Card                 | [Live Demo](https://biography-card-ui.netlify.app/)                 |
+| Custom-ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Custom-ScrollBar)            |
 | Instagram-Clone      | [Live Demo](https://insta-ui-lab.netlify.app/)
 | Job-Application-Form                 | [Live Demo](https://job-application-form-ui.netlify.app/)                 |
 | Login Form           |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |
-| Custom-ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Custom-ScrollBar)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
 | Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)

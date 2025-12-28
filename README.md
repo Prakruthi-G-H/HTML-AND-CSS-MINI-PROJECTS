@@ -29,6 +29,7 @@ Each project is placed in its own folder for better organization and learning.
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 | Accordion Page           | [Live Demo](https://accordion-page-ui.netlify.app/)    |
 | Biography Card                 | [Live Demo](https://biography-card-ui.netlify.app/)                 |
+| Instagram-Clone      | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Instagram-Clone)
 | Job-Application-Form                 | [Live Demo](https://job-application-form-ui.netlify.app/)                 |
 | Login Form           |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Login-Form)         |
 | Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
@@ -37,7 +38,7 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
 | Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
-| Instagram-Clone      | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Instagram-Clone)
+
 
 ## 🚀 How to Run Any Project
 

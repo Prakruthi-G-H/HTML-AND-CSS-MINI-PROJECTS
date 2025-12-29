@@ -32,7 +32,7 @@ Each project is placed in its own folder for better organization and learning.
 | Instagram-Clone      | [Live Demo](https://insta-ui-lab.netlify.app/)
 | Job-Application-Form                 | [Live Demo](https://job-application-form-ui.netlify.app/)                 |
 | Login Form           |  [Live Demo]()         |
-| Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Menu/)                 |
+| Menu                 | [Live Demo]()                 |
 | Profile Card         | 
 | Radio-Button         |  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Radio-Button)
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Rotating%20Text/)      |

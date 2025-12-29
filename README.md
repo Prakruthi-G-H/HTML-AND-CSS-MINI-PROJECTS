@@ -36,7 +36,7 @@ Each project is placed in its own folder for better organization and learning.
 | Profile Card         | 
 | Radio-Button         |  [Live Demo]()
 | Rotating Text        | [Live Demo]()      |
-| Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Survey%20Form/)        |
+| Survey Form          | [Live Demo]()        |
 | Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 

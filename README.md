@@ -37,7 +37,7 @@ Each project is placed in its own folder for better organization and learning.
 | Radio-Button         |  [Live Demo]()
 | Rotating Text        | [Live Demo]()      |
 | Survey Form          | [Live Demo]()        |
-| Subscription Form    | [Live Demo]( https://prakruthi-g-h.github.io/HTML-AND-CSS-MINI-PROJECTS/Subscription%20Form)
+| Subscription Form    | [Live Demo]( )
 | Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
 
 ## 🚀 How to Run Any Project

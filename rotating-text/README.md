@@ -4,7 +4,7 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 
 ## 🔗 Live Demo Links
 
- Rotating Text - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects/Rotating%20Text)
+ Rotating Text - [Live Demo]()
 
 ## 🔧 Technologies Used
 

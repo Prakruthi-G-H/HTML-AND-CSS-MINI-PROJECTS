@@ -5,7 +5,7 @@ It allows users to enter their email address to subscribe for notifications or u
 
 ## 🔗 Live Demo Links
 
-Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/html-css-mini-projects/Subscription%20Form)
+Subscription Form - [Live Demo]()
 
 ## 🔧 Technologies Used
 

@@ -32,7 +32,7 @@ Profile-Card - [Live Demo]()
 
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
-2. Navigate to the folder: Profile-Card/
+2. Navigate to the folder: profile-card/
 3. Ensure both files are present in the folder:
     - index.html
     - Profilecard.css

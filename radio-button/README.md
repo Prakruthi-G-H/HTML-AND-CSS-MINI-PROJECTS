@@ -37,7 +37,7 @@ It demonstrates how to create custom-styled **radio buttons** for selecting betw
 
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
-2. Navigate to the folder:  Radio-Button/
+2. Navigate to the folder:  radio-button/
 3. Ensure both files are present in the folder:
     - index.html
     - RadioButton.css

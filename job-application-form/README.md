@@ -37,7 +37,7 @@ Job Application Form - [Live Demo](https://job-application-form-ui.netlify.app/)
 
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
-2. Navigate to the folder: Job-Application-Form/
+2. Navigate to the folder: job-application-form/
 3. Ensure both files are present in the folder:
     - index.html
     - JobApplicationForm.css

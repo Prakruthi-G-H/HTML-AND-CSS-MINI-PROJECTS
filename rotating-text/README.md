@@ -31,7 +31,7 @@ This project demonstrates how to create a vertical text sliding effect using CSS
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
     
- 2. Navigate to the folder: Rotating Text/
+ 2. Navigate to the folder: radio-button/
  3. Ensure both files are present in the folder:
     - index.html
     - RotatingText.css

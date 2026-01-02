@@ -30,7 +30,7 @@ Survey Form - [Live Demo]()
   
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
-2. Navigate to the folder: Survey Form/
+2. Navigate to the folder: survey-form/
 3. Ensure both files are present in the folder:
     - index.html
     - SurveyForm.css

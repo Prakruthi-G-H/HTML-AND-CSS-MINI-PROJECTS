@@ -3,8 +3,8 @@
 This project is a simple and stylish **Navigation Menu UI component** built using **HTML** and **CSS**.  
 It displays a clean, centered navigation bar with interactive hover effects, making it suitable for portfolio websites, landing pages, or small projects.
 
-## 🔗 Live Demo Links
-   Menu - [Live Demo]()
+<!--## 🔗 Live Demo Links
+   Menu - [Live Demo]()  -->
 
 ## 🔧 Technologies Used
 

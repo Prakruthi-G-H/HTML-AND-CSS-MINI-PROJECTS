@@ -4,9 +4,9 @@
 A clean, modern, and responsive **Biography Card** built using **HTML** and **CSS**.  
 This project highlights a short inspirational bio of *Dr. A.P.J. Abdul Kalam*
 
-## 🔗 Live Demo Links
+<!--## 🔗 Live Demo Links
 
-Biography Card – [Live Demo](https://biography-card-ui.netlify.app/)
+Biography Card – [Live Demo](https://biography-card-ui.netlify.app/) -->
 
 ## 🔧 Technologies Used
 

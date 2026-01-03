@@ -45,7 +45,7 @@ Each project is placed in its own folder for better organization and learning.
 You can clone the entire repo and explore each project individually.
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects`
+   `git clone https://github.com/Prakruthi-G-H/html-css-mini-projects.git`
 2. Open the Repository:  
    Use VS Code or any code editor.  
    You can also browse the folders directly in your file explorer.

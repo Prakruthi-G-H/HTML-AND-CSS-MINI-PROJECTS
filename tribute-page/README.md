@@ -4,7 +4,7 @@ This project is a **tribute webpage** dedicated to **A P J Abdul Kalam**, the Mi
 
 <!-- ## 🔗 Live Demo Links
 
-Tribute Page - [Live Demo](https://tribute-page-ui.netlify.app) -->
+Tribute Page - [Live Demo]() -->
 
 ## 🔧 Technologies Used
 

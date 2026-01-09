@@ -38,7 +38,7 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | [Live Demo]()      |
 | Survey Form          | [Live Demo]()        |
 | Subscription Form    | [Live Demo]( )
-| Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         |
+| Tribute Page         | [Live Demo](https://tribute-page-ui.netlify.app)         | -->
 
 ## 🚀 How to Run Any Project
 

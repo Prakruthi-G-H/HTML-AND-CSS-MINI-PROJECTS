@@ -22,7 +22,7 @@ Each project is placed in its own folder for better organization and learning.
 | Survey Form          | Simple user feedback survey                  |
 | Tribute Page         | A tribute to Dr. A. P. J. Abdul Kalam         |
 
-## 🔗 Live Demo Links
+<!--  ## 🔗 Live Demo Links
 
 | Project Name         | Live Demo Link                                                   |
 |----------------------|-----------------------------------------------------------------|

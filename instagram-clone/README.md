@@ -46,7 +46,7 @@ The goal of this project is to **practice real-world UI development** and improv
     - Instagram.css
  4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
  
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

@@ -41,7 +41,7 @@ Login Form - [Live Demo]()   -->
     - LoginForm.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

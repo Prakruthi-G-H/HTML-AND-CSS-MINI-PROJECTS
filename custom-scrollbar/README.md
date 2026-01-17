@@ -41,7 +41,7 @@ Custom Scroll Bar - [Live Demo](https://custom-scrollbar-ui.netlify.app) -->
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

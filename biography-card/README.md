@@ -47,7 +47,7 @@ Biography Card – [Live Demo](https://biography-card-ui.netlify.app/) -->
     - BiographyCard.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
    
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

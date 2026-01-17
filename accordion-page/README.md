@@ -45,7 +45,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 -  🔁 Add “Expand All / Collapse All” version using JavaScript
 -  💬 Add icons (HTML/CSS/JS logos) beside each question
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

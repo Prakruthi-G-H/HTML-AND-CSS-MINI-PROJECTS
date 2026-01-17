@@ -48,7 +48,7 @@ Profile-Card - [Live Demo]()   -->
 
 
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

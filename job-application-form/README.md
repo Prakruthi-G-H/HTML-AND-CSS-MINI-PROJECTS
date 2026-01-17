@@ -43,7 +43,7 @@ Job Application Form - [Live Demo](https://job-application-form-ui.netlify.app/)
     - JobApplicationForm.css
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge)
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  

@@ -41,7 +41,7 @@ It displays a clean, centered navigation bar with interactive hover effects, mak
 - 📌 Add active page indicator
 
     
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
   **Prakruthi G H**  
 📍 Bangalore, India  

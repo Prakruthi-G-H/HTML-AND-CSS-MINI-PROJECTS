@@ -62,7 +62,7 @@ You can clone the entire repo and explore each project individually.
 - Build a full personal portfolio site using these components  
 - Add responsiveness to all projects for mobile view
 
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  
